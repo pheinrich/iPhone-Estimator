@@ -1,0 +1,12 @@
+Zetamari Estimator
+Copyright (c) 2009  Peter Heinrich
+
+This is a functional first draft of a (highly specialized) iPhone application
+dedicated to cost estimation for commissioned artwork.  It's highly special-
+ized because of the nature of the estimates, which are based on attributes
+specific to Zetamari art pieces, as well as more general extrinsic character-
+istics such as the surface area of various parameterized shapes.
+
+The app is the beginning of my iPhone development education (as illustrated by
+the beginner Objective-C).  It's not good.  It works, but it's really more of
+a proof-of-concept.
